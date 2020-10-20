@@ -1,0 +1,7 @@
+E:\git\OOPlabs\ooplab3\lab3oop\lab3oop\bin\Debug\lab3oop.exe.config
+E:\git\OOPlabs\ooplab3\lab3oop\lab3oop\bin\Debug\lab3oop.exe
+E:\git\OOPlabs\ooplab3\lab3oop\lab3oop\bin\Debug\lab3oop.pdb
+E:\git\OOPlabs\ooplab3\lab3oop\lab3oop\obj\Debug\lab3oop.csprojAssemblyReference.cache
+E:\git\OOPlabs\ooplab3\lab3oop\lab3oop\obj\Debug\lab3oop.csproj.CoreCompileInputs.cache
+E:\git\OOPlabs\ooplab3\lab3oop\lab3oop\obj\Debug\lab3oop.exe
+E:\git\OOPlabs\ooplab3\lab3oop\lab3oop\obj\Debug\lab3oop.pdb
