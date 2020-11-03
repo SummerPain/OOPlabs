@@ -1,0 +1,7 @@
+E:\git\OOPlabs\ooplab4\lab4oop\lab4oop\bin\Debug\lab4oop.exe.config
+E:\git\OOPlabs\ooplab4\lab4oop\lab4oop\bin\Debug\lab4oop.exe
+E:\git\OOPlabs\ooplab4\lab4oop\lab4oop\bin\Debug\lab4oop.pdb
+E:\git\OOPlabs\ooplab4\lab4oop\lab4oop\obj\Debug\lab4oop.csprojAssemblyReference.cache
+E:\git\OOPlabs\ooplab4\lab4oop\lab4oop\obj\Debug\lab4oop.csproj.CoreCompileInputs.cache
+E:\git\OOPlabs\ooplab4\lab4oop\lab4oop\obj\Debug\lab4oop.exe
+E:\git\OOPlabs\ooplab4\lab4oop\lab4oop\obj\Debug\lab4oop.pdb
