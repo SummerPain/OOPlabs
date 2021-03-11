@@ -26,7 +26,7 @@ namespace lab4oop
             list1.Add("1Врой");
             list1.Add("1Третий");
             list2.Add("2Первй");
-            list2.Add("орой");
+            list2.Add("2орой");
             list2.Add("2Третиbbbй");
             var list3 = new List<string>();
 
